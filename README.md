@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105958626/223738295-cfe308ed-0bbe-46d8-b0d2-d6c8a0e231fd.gif">
+</p>
+
 # 💫 About Me:
 Soy Christian, un desarrollador de software con experiencia en el desarrollo de aplicaciones Java con Spring Framework y en el manejo de bases de datos relacionales.<br><br>Mi experiencia profesional se centra en el desarrollo de aplicaciones web y usando Java y Spring.
 
